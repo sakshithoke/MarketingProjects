@@ -2,7 +2,7 @@
 
 <h6 align="center">I am Sakshi, a Business Management student at EDHEC Business School, passionate about marketing, business analytics and business innovation</h6>
 
-<img align="center" alt="woring" width="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="woring" width="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
 <h6 align="Left">During my M1 at EDHEC, I developed a passion for marketing and am eager to take on related projects. Here, I will showcase the projects I have worked on and will continue to update the folders with new projects as I complete them.</h6>
