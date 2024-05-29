@@ -5,9 +5,9 @@
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
-<h5 align="Left">During my M1 at EDHEC, I developed a passion for marketing and am eager to take on related projects. Here, I will showcase the projects I have worked on and will continue to update the folders with new projects as I complete them.</h5>
+<h6 align="Left">During my M1 at EDHEC, I developed a passion for marketing and am eager to take on related projects. Here, I will showcase the projects I have worked on and will continue to update the folders with new projects as I complete them.</h6>
 
-<h6 align="Left">1. Procter & Gamble</h6>
+<h5 align="Left">1. Procter & Gamble</h5>
 
 The goal of this project is to create an end-end marketing strategy plan for the PnG Product Ninjama and its performance and continued success in the French market. 
 
