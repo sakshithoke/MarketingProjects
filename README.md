@@ -14,12 +14,12 @@ The goal of this project is to create an end-end marketing strategy plan for the
 The problem statement: The bedwetting/enuresis market is significantly underdeveloped, with low market penetration and low repurchase rates. Many households affected by bedwetting do not use suitable products, either because they are unaware of the specialized options or they are disappointed by the "baby diaper" appearance of current products. This results in a large unmet need, as 61% of affected households do not use appropriate products. Additionally, 38% of children feel uncomfortable or embarrassed wearing the current diaper-like options. The market presents a sizable opportunity, with 8% of children aged 4-12 affected by bedwetting, but only 3% using category products. Addressing the tension points around lack of awareness, product dissatisfaction, and stigma could help unlock the potential of this growing segment.
 
 Key highlights of the project:
-• Conducted comprehensive market research: Analyzed the bedwetting landscape in France, including competitor positioning
-• Created a compelling value proposition: Identified unique selling points for Ninjamas to succeed in the French market
-• Carried out thorough STP analysis: Developed a marketing action plan to improve Ninjamas' market share and brand awareness by 2024
-• Provided data-driven recommendations: Suggested specific actions backed by reviews, surveys, and industry reports
-• Crafted a targeted communication strategy: Focused on reaching parents, children, and medical practitioners
-• Optimized the 4P analysis: Designed in-store implementation, promotion tactics to encourage product trials, and long-term product portfolio strategies
-• Explored ways to destigmatize bedwetting: Identified opportunities to increase societal awareness and acceptance of this condition
-• Positioned the product as a conversation starter: Incorporated educational elements into marketing to facilitate discussions among parents, teachers, and caregivers
-• Recommended community engagement initiatives: Evaluated potential partnerships and connection programs to foster support and shift perceptions
+- Conducted comprehensive market research: Analyzed the bedwetting landscape in France, including competitor positioning
+- Created a compelling value proposition: Identified unique selling points for Ninjamas to succeed in the French market
+- Carried out thorough STP analysis: Developed a marketing action plan to improve Ninjamas' market share and brand awareness by 2024
+- Provided data-driven recommendations: Suggested specific actions backed by reviews, surveys, and industry reports
+- Crafted a targeted communication strategy: Focused on reaching parents, children, and medical practitioners
+- Optimized the 4P analysis: Designed in-store implementation, promotion tactics to encourage product trials, and long-term product portfolio strategies
+- Explored ways to destigmatize bedwetting: Identified opportunities to increase societal awareness and acceptance of this condition
+- Positioned the product as a conversation starter: Incorporated educational elements into marketing to facilitate discussions among parents, teachers, and caregivers
+- Recommended community engagement initiatives: Evaluated potential partnerships and connection programs to foster support and shift perceptions
